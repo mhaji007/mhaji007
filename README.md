@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mhaji007/mhaji007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h2> Hi, I'm Mehdi Hajikhani <img src=" https://ibb.co/rsqYZjz" width="40"></h2>
 
@@ -36,4 +35,3 @@ web technologies: [“HTML”, “CSS”, “JQuery”, “Bootstrap”, “Expr
 ## 📫 Contact Me
 - LinkedIn - [Mehdi Hajikhani](https://www.linkedin.com/in/mehdi-hajikhani/)
 
--->
