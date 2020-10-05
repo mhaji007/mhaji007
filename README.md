@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dino](https://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
+
 <h2>I'm Mehdi Hajikhani <img src=" https://ibb.co/rsqYZjz" width="40"></h2>
 
 <p><em>Web Developer</br>
