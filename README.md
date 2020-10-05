@@ -2,7 +2,7 @@
 
 <h2>I'm Mehdi Hajikhani <img src=" https://ibb.co/rsqYZjz" width="40"></h2>
 
-<img align='right' src=" " width="230">
+<img align='right' src="https://ibb.co/rsqYZjz" width="230">
 
 <p><em>Web Developer</br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
@@ -11,9 +11,9 @@ Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
 ### A little more about me...  
 
 ```javascript
-const mehdihajikhani = {
- code: ["Javascript", "Python", “Java”, "HTML", "CSS"],
- web technologies: [“HTML”, “CSS”, “JQuery”, “Bootstrap”, “Express.JS”, “Node.JS”, “React.JS”, “Next.JS”, ,”Redux”,“MySQL”, “MongoDB”],
+const mehdiHajikhani = {
+ code: ["Javascript", "Python", "Java", "HTML", "CSS"],
+ webTechnologies: ["HTML", "CSS", "JQuery", "Bootstrap", "Expressjs", "Nodejs", "Reactjs", "Nextjs", "Redux", "MySQL", "MongoDB"],
  preprocessor: ["SASS"],
  techCommunities: {
      member: "FIU IEEE",
@@ -22,7 +22,7 @@ const mehdihajikhani = {
      website: "https://mehdi-hajikhani.vercel.app/", 
      portfolio: "https://portfolio-mehdi.netlify.app/"
   ],
-  challenge: "I am doing at least one commit a day to keep ignorance away "
+  challenge: "I am doing at least one commit a day to keep ignorance away"
 }
 ```
 
