@@ -2,8 +2,6 @@
 
 <h2>I'm Mehdi Hajikhani <img src=" https://ibb.co/rsqYZjz" width="40"></h2>
 
-<img align='right' src="https://ibb.co/rsqYZjz" width="230">
-
 <p><em>Web Developer</br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
 </em></p>
