@@ -3,10 +3,8 @@
 <img width="200" height="200" src="https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg">
 
 <h2>I'm Mehdi Hajikhani</h2> 
-
-Front-End Developer at <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a></br>
-Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
-</em></p>
+Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a></br>
+Front-End Developer at <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a>
 
 ### A little more about me...  
 
