@@ -4,7 +4,7 @@
 
 <h2>I'm Mehdi Hajikhani</h2> 
 
-Front-End Developer at <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a>
+Front-End Developer at <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a></br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
 </em></p>
 
