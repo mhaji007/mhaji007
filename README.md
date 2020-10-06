@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![dino](https://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
 
-<h2>I'm Mehdi Hajikhani</h2> ![Icon-01](https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg)
+![dino](https://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
+![Icon-01](https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg)
+
+<h2>I'm Mehdi Hajikhani</h2> 
 
 <p><em>Web Developer</br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
