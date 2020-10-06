@@ -2,10 +2,8 @@
 
 
 ![dino](https://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg">
-</p>
-<h2>I'm Mehdi Hajikhani</h2> 
+
+<h2>I'm Mehdi Hajikhani <img width="40" src="https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg"></h2> 
 
 <p><em>Web Developer</br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
