@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h2>I'm Mehdi Hajikhani <img width="100" height="100" src="https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg"></h2> 
+<img width="200" height="200" src="https://user-images.githubusercontent.com/22078200/95149127-25a23700-0753-11eb-965e-d1748ff386a3.jpg">
+
+<h2>I'm Mehdi Hajikhani</h2> 
 
 <p><em>Web Developer</br>
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a>
