@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![dino](https://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
+![dino](http://user-images.githubusercontent.com/22078200/95139784-4bbbdd00-073b-11eb-99b9-63cc97cf21e4.gif)
  <p align="center">
   <img width="460" height="300" src="https://ibb.co/rsqYZjz">
 </p>
