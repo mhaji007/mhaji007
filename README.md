@@ -11,7 +11,7 @@ Front-End Developer at <a href="https://play.google.com/store/apps/details?id=co
 
 ```javascript
 const mehdiHajikhani = {
- code: ["Javascript", "Python", "Java", "HTML", "CSS"],
+ code: ["Javascript", "Python", "Java"],
  webTechnologies: ["HTML", "CSS", "JQuery", "Bootstrap", "Expressjs", "Nodejs", "Reactjs", "Nextjs", "Redux", "MySQL", "MongoDB"],
  preprocessor: ["SASS"],
  techCommunities: {
