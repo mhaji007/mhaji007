@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align="center">
 <img width="200" height="200" src="https://user-images.githubusercontent.com/22078200/95161394-01ede980-0771-11eb-859f-9f41547ca4fc.gif">
-</p>
 
 <h2>I'm Mehdi Hajikhani</h2> 
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a></br>
@@ -30,8 +28,6 @@ const mehdiHajikhani = {
 - 👯 I’m looking to collaborate on any cool projects
 
 ## 📫 Contact Me
-- LinkedIn - [Mehdi Hajikhani](https://www.linkedin.com/in/mehdi-hajikhani/)
-
-
 <p align="center"> <img width="600" height="200" src="https://user-images.githubusercontent.com/22078200/98915988-a235dd00-2498-11eb-83ff-3872ef4e0b07.PNG"> </p>
+- LinkedIn - [Mehdi Hajikhani](https://www.linkedin.com/in/mehdi-hajikhani/)
 
