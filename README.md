@@ -2,8 +2,6 @@
 
 <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/22078200/95161394-01ede980-0771-11eb-859f-9f41547ca4fc.gif">
 
-<img align="right" width="600" height="200" src="https://user-images.githubusercontent.com/22078200/98915988-a235dd00-2498-11eb-83ff-3872ef4e0b07.PNG">
-
 
 <h2>I'm Mehdi Hajikhani</h2> 
 Software Engineer Intern at <a href="https://aei.ai/">aEi.ai</a></br>
@@ -33,4 +31,7 @@ const mehdiHajikhani = {
 
 ## 📫 Contact Me
 - LinkedIn - [Mehdi Hajikhani](https://www.linkedin.com/in/mehdi-hajikhani/)
+
+
+<p> <img align="right" width="600" height="200" src="https://user-images.githubusercontent.com/22078200/98915988-a235dd00-2498-11eb-83ff-3872ef4e0b07.PNG"> </p>
 
