@@ -5,14 +5,14 @@
 <h2>I'm Mehdi Hajikhani</h2>
 Software Engineer at <a href="https://www.alocity.com/">Alocity</a></br>
 Previously at <a href="https://aei.ai/">aEi.ai</a></br>
-Front-End Developer at <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a>
+Front-End Developer of <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a>
 
 ### A little more about me...  
 
 ```javascript
 const mehdiHajikhani = {
  code: ["Javascript", "Python", "Java"],
- webTechnologies: ["HTML", "CSS", "JQuery", "Bootstrap", "Expressjs", "Nodejs", "Reactjs", "Nextjs", "Redux", "MySQL", "MongoDB"],
+ webTechnologies: ["HTML", "CSS", "JQuery", "Bootstrap", "Material-UI", "Expressjs", "Nodejs", "Reactjs", "Nextjs", "Redux", "MongoDB"],
  preprocessor: ["SASS"],
  techCommunities: {
      member: "FIU IEEE",
@@ -25,7 +25,6 @@ const mehdiHajikhani = {
 }
 ```
 
-- 🔭 I’m currently working on https://aei.ai/
 - 🌱 I’m currently learning Next.js, GraphQL
 
 
