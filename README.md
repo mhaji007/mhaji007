@@ -21,7 +21,7 @@ const mehdiHajikhani = {
      website: "https://mehdi-hajikhani.vercel.app/", 
      portfolio: "https://portfolio-mehdi.netlify.app/"
   ],
-  challenge: "I am doing at least one commit a day to keep ignorance away"
+  challenge: "Learn as much as I can everyday"
 }
 ```
 
