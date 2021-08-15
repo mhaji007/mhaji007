@@ -4,7 +4,6 @@
 
 <h2>I'm Mehdi Hajikhani</h2>
 Software Engineer at <a href="https://www.alocity.com/">Alocity</a></br>
-Previously at <a href="https://aei.ai/">aEi.ai</a></br>
 Front-End Developer of <a href="https://play.google.com/store/apps/details?id=com.mehdi.smartsaid&hl=en_US">SmartsAid</a>
 
 ### A little more about me...  
